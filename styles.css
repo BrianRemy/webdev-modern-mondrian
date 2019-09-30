@@ -38,8 +38,12 @@ body {
     float: right;
 }
 
+.left {
+    float: left;
+}
+
 #divider1 {
-    height: 400px;
+    height: 290px;
     width: 10px;
 }
 
@@ -60,11 +64,13 @@ body {
 
 #bottomrow {
     height: 100px;
+    width: 400px;
 }
 
 #box2 {
     width: 100px;
     height: 100px;
+    
 }
 
 #box3 {
@@ -74,5 +80,20 @@ body {
 
 #box4 {
     height: 45px;
+    width: 20px;
+}
+
+#box5 {
+    height: 45px;
+    width: 20px;
+}
+
+#divider3 {
+    height: 100px;
+    width: 10px;
+}
+
+#divider4 {
+    height: 10px;
     width: 20px;
 }
